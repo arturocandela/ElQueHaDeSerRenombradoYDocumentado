@@ -12,5 +12,7 @@ public class App
         Hodor hodor = new Hodor();
         hodor.holdTheDoor(door);
 
+        hodor.holdTheDoor(door);
+
     }
 }
